@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "HTML",
+      "detail": "HTML Tutorial",
+      "price": 15,
+      "imageUrl": "https://github.com/MarynaHaiduk/redux-shopping-cart/blob/master/src/components/data/images/html.jpg?raw=true"
+    },
+    {
+      "id": "2",
+      "name": "CSS",
+      "detail": "CSS Tutorial",
+      "price": 15,
+      "imageUrl": "https://github.com/MarynaHaiduk/redux-shopping-cart/blob/master/src/components/data/images/css.png?raw=true"
+    },
+    {
+      "id": "3",
+      "name": "JavaScript",
+      "detail": "JavaScript Tutorial",
+      "price": 15,
+      "imageUrl": "https://github.com/MarynaHaiduk/redux-shopping-cart/blob/master/src/components/data/images/js.png?raw=true"
+    },
+    {
+      "id": "4",
+      "name": "React JS",
+      "detail": "React JS Tutorial",
+      "price": 15,
+      "imageUrl": "https://github.com/MarynaHaiduk/redux-shopping-cart/blob/master/src/components/data/images/react.png?raw=true"
+    },
+    {
+      "id": "5",
+      "name": "Redux",
+      "detail": "Redux Tutorial",
+      "price": 15,
+      "imageUrl": "https://github.com/MarynaHaiduk/redux-shopping-cart/blob/master/src/components/data/images/redux.png?raw=true"
+    },
+    {
+      "id": "6",
+      "name": "Git",
+      "detail": "Git Tutorial",
+      "price": 15,
+      "imageUrl": "https://github.com/MarynaHaiduk/redux-shopping-cart/blob/master/src/components/data/images/git.png?raw=true"
+    },
+    {
+      "id": "7",
+      "name": "VS Code",
+      "detail": "VS Code Tutorial",
+      "price": 15,
+      "imageUrl": "https://github.com/MarynaHaiduk/redux-shopping-cart/blob/master/src/components/data/images/vscode.png?raw=true"
+    }
+  ]
+}
